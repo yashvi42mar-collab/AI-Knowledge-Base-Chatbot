@@ -1,0 +1,22 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+knowledgebot/
+.env/
+
+# VS Code
+.vscode/
+
+# Chroma database
+chroma_db/
+
+# macOS
+.DS_Store
+
+
